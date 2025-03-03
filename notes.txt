@@ -1,0 +1,3 @@
+to create a CRA : npx create-react-app <folder name>
+
+vite : npm create vite@latest .
